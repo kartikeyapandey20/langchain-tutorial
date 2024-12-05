@@ -1,1 +1,1 @@
-# langchain-tutoria
+# langchain-tutorial
